@@ -6,7 +6,7 @@ export const getRepositories = async () => {
       // Make API request to fetch repositories
       const response = await fetch('https://api.github.com/San-Tiagoo/repos', {
         headers: {
-          Authorization: `Token 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`,
+          Authorization: `Bearer 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`,
         },
       });
   
