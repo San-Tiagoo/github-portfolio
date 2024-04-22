@@ -1,0 +1,1 @@
+ A web app built using React and GitHub API to fetch and display GitHub repositories with pagination, search, filter, nested routes for repository details, error boundary, and a 404 page, 
